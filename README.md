@@ -39,6 +39,8 @@ updateWeight: Lê o sensor de peso (HX711), converte o valor para quilogramas, l
 Em resumo, este código cria um sistema que, ao ser carregado em um ESP32, conecta-se à Wi-Fi, estabelece uma comunicação MQTT e monitora sensores,
 enviando continuamente os dados coletados para um servidor MQTT. Esses dados podem ser posteriormente utilizados em sistemas de automação ou monitoramento remoto.
 
+Link para o projeto no Wokwi: https://wokwi.com/projects/381374487369705473
+
 
 
 
